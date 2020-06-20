@@ -2,3 +2,5 @@ HALO !
 - Ini cuman tulisan
 - Gk penting 
 - Nyoba - nyoba
+
+- Tambahan commit pertama
