@@ -4,3 +4,4 @@ HALO !
 - Nyoba - nyoba
 
 - Tambahan commit pertama
+- Tambahan commit kedua
